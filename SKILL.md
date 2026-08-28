@@ -323,6 +323,8 @@ Record:
 - Main Title
 - Supporting Line
 - CTA
+
+When importing historical records from a spreadsheet or handoff, **preserve the source CTA exactly if it is provided**. Do not omit it, rewrite it, or infer a replacement unless the user explicitly asks for a copy update.
 - broad category
 - subcategory/style
 - scene
